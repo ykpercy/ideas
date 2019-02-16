@@ -1,0 +1,7 @@
+1、git如何下载开源项目
+git clone https://github.com/ykpercy/ideas.git
+
+2、已经如何上传本地项目
+git add .  #文件添加至缓存
+git commit -m “备注"  #将文件修改提交到本地仓库
+git push origin master  #将本地仓库修改推送到远程仓库
